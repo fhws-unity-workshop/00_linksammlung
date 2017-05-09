@@ -11,4 +11,5 @@ Hier findet ihr interessante Links die euch beim Erstellen eurer Unity-Anwendung
 Für Ressources und Assets ist der Appstore von Unity die erste Anlaufstelle. Hier findet ihr zahlreiche Plugins, die bestimmt bei dem ein oder anderen Problem von euch helfen. https://www.assetstore.unity3d.com/
 
 * Vuforia ist eine Toolkit mit der man schnell AR-Anwendungen erstellen kann https://www.vuforia.com/
-* Auf dem Github Profil von Keijiro findet man zahlreiche Code-Beispiele  https://github.com/keijiro
+* Auf dem Github Profil von Keijiro findet man zahlreiche Code-Beispiele https://github.com/keijiro
+* Hier findet ihr eine Reihe an kostenlosen Ressources http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
